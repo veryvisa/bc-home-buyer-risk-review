@@ -23,7 +23,7 @@
 一页风险清单 红、黄、绿三档排好。每一条都写明出自哪份文件第几页，中英对照，你和家人自己能回头核。 持有成本表 月费、已经通过的特别征费、折旧报告里未来几年的大修与储备金缺口，放在一张表里，看清头几年大概要掏多少。 保险缺口一个数 大楼免赔额对上你个人公寓保险的大楼分摊限额，缺口算成一个具体的数字，告诉你补上大概要找谁、怎么问。 写好的英文追问信 该问卖方经纪和物业公司的问题，替你用英文写好，你直接发出去。不用担心「多问会不会显得不懂行」。 还要谁来确认 哪些事要律师看、哪些要验屋师看、贷款和税务（投机与空置税、外国买家规则）该问谁，一条一条列清，不让你漏问。 截止日倒排 从去除条件那天往回排：哪天之前要拿到哪份文件、哪天之前要发追问信。 买下以后的档案 这套房子的风险档案留给你：折旧报告哪年到期、大修排在哪一年、保险什么时候续。愿意的话，我们帮你一起记着。
 
 ## 大楼免赔额，你家要自己掏多少
-填两个数就能看出缺口。大楼免赔额在 Form B 的保险摘要或物业给的保险证明里；你个人保单的「loss assessment」或「大楼分摊」限额在保单首页。 html <div class="gapcalc" style="border:1px solid var(--accent,1f6b45);border-radius:14px;padding:16px;background:var(--soft,eef7f1);max-width:560px" <label style="display:block;margin:0 0 10px"大楼水损免赔额（加元） <input id="gap-bld" type="number" inputmode="decimal" min="0" placeholder="如 250000" style="display:block;width:100%;margin-top:4px;padding:8px;font-size:16px;box-sizing:border-box" </label <label style="display:block;margin:0 0 10px"你个人保单的大楼分摊（loss assessment）限额（加元） <input id="gap-own" type="number" inputmode="decimal" min="0" placeholder="如 50000，还没买保险就填 0" style="display:block;width:100%;margin-top:4px;padding:8px;font-size:16px;box-sizing:border-box" </label <div id="gap-out" style="margin-top:12px;padding:12px;border-radius:10px;background:fff;line-height:1.7" aria-live="polite"填入两个数后显示结果。</div </div <
+填两个数就能看出缺口。大楼免赔额在 Form B 的保险摘要或物业给的保险证明里；你个人保单的「loss assessment」或「大楼分摊」限额在保单首页。
 
 ## 怎么开始
 1. 在下面留邮箱，写下房子的大致情况和去除条件的日期（地址可以先不给）。 2. 我们回复：还缺哪些文件、从哪里要。 3. 你把文件发来，我们先免费初筛，告诉你有没有值得深看的地方，最要紧的三件事先说。 4. 拿到风险清单、保险缺口和英文追问信，你去问、去核。 5. 买不买、出多少，由你自己决定。
